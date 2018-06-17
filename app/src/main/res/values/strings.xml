@@ -3,6 +3,13 @@
     <string name="title_activity_main2">Main2Activity</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_second">second</string>
+    <string name="textview">TextView</string>
+    <string name="nav1">HOME</string>
+    <string name="nav2">Gallery</string>
+    <string name="nav3">College</string>
+    <string name="nav5">CANTEEN</string>
+    <string name="nav4">EPICS</string>
+
 
 </resources>
 
